@@ -1,0 +1,1 @@
+//https://teachablemachine.withgoogle.com/models/GwipBMMMs/ Link do Teachable Machine
